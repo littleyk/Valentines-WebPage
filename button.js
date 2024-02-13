@@ -30,7 +30,7 @@ function noButtonClick() {
 function yesButtonClick() {
   // Update the h2 text when the "Yes" button is clicked
   var h2Element = document.querySelector("h2");
-  h2Element.textContent = "YESSSS! I KNEW I COULD COUNT ON YOU!";
+  h2Element.textContent = "YESSSS! I KNEW I COULD COUNT ON YOU! LOVE YOU ❤️";
 
   // Hide the buttons
   var buttons = document.querySelectorAll(".button");
