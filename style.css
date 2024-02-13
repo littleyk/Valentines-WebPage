@@ -1,0 +1,43 @@
+body {
+  background-color: pink;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.img {
+  display: block;
+  margin-top: 20px;
+  visibility: hidden;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0.25em 0.25em 0.75em rgb(0, 0, 0, 0.5),
+    0.125em 0.125em 0.25em rgba(0, 0, 0, 0.25);
+}
+
+.button:hover {
+  background-color: red;
+  transition: 0.5s;
+}
+
+.yes-button {
+  margin-right: 10px;
+}
+
+.img {
+  display: block;
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
