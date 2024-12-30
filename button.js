@@ -37,9 +37,3 @@ function yesButtonClick() {
   buttons.forEach(function (button) {
     button.style.display = "none";
   });
-
-  // Show the image
-  var imgElement = document.querySelector("img");
-  imgElement.src = "img/img.png";
-  imgElement.style.visibility = "visible"; // Change visibility to "visible"
-}
