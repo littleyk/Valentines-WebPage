@@ -37,3 +37,4 @@ function yesButtonClick() {
   buttons.forEach(function (button) {
     button.style.display = "none";
   });
+}
