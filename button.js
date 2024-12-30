@@ -1,6 +1,5 @@
 // Define the list of text to cycle through
 var textList = [
-  "Are you sure?",
   "What if I asked really nicely?",
   "Pretty please?",
   "I'll give you a cookie?",
